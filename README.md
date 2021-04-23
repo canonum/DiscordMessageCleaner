@@ -1,7 +1,7 @@
 # DiscordMessageCleaner
 A python script that finds your messages and delete them. If you are worried about using developer console scripts, That's ideal for you
 
-Instalation
+Instalation\n\n
   -Python 2.7.x;
   |
   |->Download the source code and extract to a folder
